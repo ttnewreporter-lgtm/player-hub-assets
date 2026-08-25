@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Journal scroll icon</title>
+  <rect width="512" height="512" rx="64" fill="#15181d"/>
+  <path d="M96 72h280l48 48v304l-48 48H96l-48-48V120z" fill="#d7a43b"/>
+  <path d="M112 112h248l24 24v272l-24 24H112l-24-24V136z" fill="#f4e6c7"/>
+  <path d="M136 174h184v24H136zm0 58h240v24H136zm0 58h200v24H136zm0 58h128v24H136z" fill="#7f8995"/>
+  <path d="M328 314l72-72 40 40-72 72-54 14z" fill="#4eb66a"/>
+  <path d="M400 242l24-24 40 40-24 24z" fill="#a94442"/>
+  <path d="M314 368l54-14-40-40z" fill="#232832"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Player Hub compass icon</title>
+  <rect width="512" height="512" rx="64" fill="#15181d"/>
+  <path d="M176 48h160l128 128v160L336 464H176L48 336V176z" fill="#232832" stroke="#d7a43b" stroke-width="24"/>
+  <path d="M256 92l74 164-74 164-74-164z" fill="#d7a43b"/>
+  <path d="M92 256l164-74 164 74-164 74z" fill="#4eb66a"/>
+  <rect x="216" y="216" width="80" height="80" fill="#f4e6c7"/>
+  <rect x="236" y="236" width="40" height="40" fill="#a94442"/>
+</svg>
+

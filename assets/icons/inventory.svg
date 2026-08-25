@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Inventory chest icon</title>
+  <rect width="512" height="512" rx="64" fill="#15181d"/>
+  <path d="M56 132h400v120H56z" fill="#b46a2b"/>
+  <path d="M76 92h360l20 40H56z" fill="#d7a43b"/>
+  <path d="M56 252h400v180H56z" fill="#8f5227"/>
+  <path d="M76 276h360v132H76z" fill="#b46a2b"/>
+  <path d="M216 220h80v120h-80z" fill="#d7a43b"/>
+  <path d="M236 244h40v52h-40z" fill="#15181d"/>
+  <path d="M56 132h400v24H56zM56 408h400v24H56z" fill="#4a515d"/>
+  <path d="M96 156h24v96H96zm296 0h24v96h-24z" fill="#7f8995"/>
+  <rect x="240" y="304" width="32" height="44" fill="#4eb66a"/>
+</svg>

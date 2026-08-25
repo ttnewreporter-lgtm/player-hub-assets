@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Academy book icon</title>
+  <rect width="512" height="512" rx="64" fill="#15181d"/>
+  <path d="M52 104h176l28 28 28-28h176v300H284l-28 28-28-28H52z" fill="#d7a43b"/>
+  <path d="M80 132h136l24 24v210l-24-18H80zM296 156l24-24h112v216H320l-24 18z" fill="#f4e6c7"/>
+  <path d="M240 156h32v246h-32z" fill="#a94442"/>
+  <path d="M108 190h88v18h-88zm0 52h88v18h-88zm208-52h88v18h-88zm0 52h88v18h-88z" fill="#7f8995"/>
+  <path d="M326 304h68v68h-68z" fill="#4eb66a"/>
+  <path d="M343 321h34v34h-34z" fill="#15181d"/>
+</svg>
+

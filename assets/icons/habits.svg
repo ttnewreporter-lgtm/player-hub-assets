@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Habits flame icon</title>
+  <rect width="512" height="512" rx="64" fill="#15181d"/>
+  <path d="M232 44h72v72h48v72h48v72h40v96h-40v48h-56v40H168v-40h-56v-48H72v-96h40v-80h48v-74h72z" fill="#a94442"/>
+  <path d="M232 132h48v72h56v64h40v88h-48v48H184v-48h-48v-72h40v-80h56z" fill="#d7a43b"/>
+  <path d="M232 236h48v56h40v64h-32v48h-64v-48h-32v-64h40z" fill="#f4e6c7"/>
+  <rect x="96" y="424" width="320" height="32" fill="#4a515d"/>
+</svg>
